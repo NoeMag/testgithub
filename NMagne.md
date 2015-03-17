@@ -1,3 +1,3 @@
 # Ce que je veux 
 
-Aller sur Twitter, cliquer [ici](https://twitter.com/?lang=fr)
+Aller sur Twitter, clique [ici](https://twitter.com/?lang=fr)
